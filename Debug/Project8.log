@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\tjstm\source\repos\project8\소스.c(125): warning C4026: 정식 매개 변수 목록을 사용하여 함수를 선언했습니다.
+  Project8.vcxproj -> C:\Users\tjstm\source\repos\Project8\Debug\Project8.exe
